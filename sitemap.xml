@@ -3,26 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/my-first-post/</loc>
-    <lastmod>2021-03-03T12:10:16-07:00</lastmod>
+    <loc>https://thundrjary.github.io/an-nginx-primer/</loc>
+    <lastmod>2021-03-03T22:56:03-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2021-03-03T12:10:16-07:00</lastmod>
+    <loc>https://thundrjary.github.io/</loc>
+    <lastmod>2021-03-03T22:56:03-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-03-03T12:10:16-07:00</lastmod>
+    <loc>https://thundrjary.github.io/posts/</loc>
+    <lastmod>2021-03-03T22:56:03-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://thundrjary.github.io/who-is-jenkins/</loc>
+    <lastmod>2021-03-03T22:55:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://thundrjary.github.io/virtualenv-vs-docker/</loc>
+    <lastmod>2021-03-03T22:55:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thundrjary.github.io/battle-of-the-sqls/</loc>
+    <lastmod>2021-03-03T22:54:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thundrjary.github.io/notes-on-learning/</loc>
+    <lastmod>2021-03-03T20:18:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thundrjary.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thundrjary.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thundrjary.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thundrjary.github.io/tags/</loc>
   </url>
   
 </urlset>

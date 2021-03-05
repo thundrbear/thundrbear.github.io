@@ -1,24 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Website Name</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Website Name</description>
+    <title>Tags on Jarom Later</title>
+    <link>https://thundrjary.github.io/tags/</link>
+    <description>Recent content in Tags on Jarom Later</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thundrjary.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://example.com/my-first-post/</link>
-      <pubDate>Wed, 03 Mar 2021 12:10:16 -0700</pubDate>
+      <title>an nginx primer</title>
+      <link>https://thundrjary.github.io/an-nginx-primer/</link>
+      <pubDate>Wed, 03 Mar 2021 22:56:03 -0700</pubDate>
       
-      <guid>https://example.com/my-first-post/</guid>
+      <guid>https://thundrjary.github.io/an-nginx-primer/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>who is jenkins</title>
+      <link>https://thundrjary.github.io/who-is-jenkins/</link>
+      <pubDate>Wed, 03 Mar 2021 22:55:41 -0700</pubDate>
+      
+      <guid>https://thundrjary.github.io/who-is-jenkins/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>virtualenv vs docker</title>
+      <link>https://thundrjary.github.io/virtualenv-vs-docker/</link>
+      <pubDate>Wed, 03 Mar 2021 22:55:00 -0700</pubDate>
+      
+      <guid>https://thundrjary.github.io/virtualenv-vs-docker/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>battle of the sqls</title>
+      <link>https://thundrjary.github.io/battle-of-the-sqls/</link>
+      <pubDate>Wed, 03 Mar 2021 22:54:16 -0700</pubDate>
+      
+      <guid>https://thundrjary.github.io/battle-of-the-sqls/</guid>
       <description>this is a test</description>
     </item>
+    
+    
+    
+    <item>
+      <title>notes on learning</title>
+      <link>https://thundrjary.github.io/notes-on-learning/</link>
+      <pubDate>Wed, 03 Mar 2021 20:18:46 -0700</pubDate>
+      
+      <guid>https://thundrjary.github.io/notes-on-learning/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    
     
     
   </channel>
