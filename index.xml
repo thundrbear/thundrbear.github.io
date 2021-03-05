@@ -6,9 +6,20 @@
     <description>Recent content on Jarom Later</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Mar 2021 22:56:03 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 08:12:14 -0700</lastBuildDate>
     
 	<atom:link href="https://thundrjary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>New article</title>
+      <link>https://thundrjary.github.io/new-article/</link>
+      <pubDate>Fri, 05 Mar 2021 08:12:14 -0700</pubDate>
+      
+      <guid>https://thundrjary.github.io/new-article/</guid>
+      <description>test this is me testing my hugo workflow</description>
+    </item>
     
     
     

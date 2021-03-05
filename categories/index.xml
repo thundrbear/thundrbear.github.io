@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>New article</title>
+      <link>https://thundrjary.github.io/new-article/</link>
+      <pubDate>Fri, 05 Mar 2021 08:12:14 -0700</pubDate>
+      
+      <guid>https://thundrjary.github.io/new-article/</guid>
+      <description>test this is me testing my hugo workflow</description>
+    </item>
+    
+    
+    
+    <item>
       <title>an nginx primer</title>
       <link>https://thundrjary.github.io/an-nginx-primer/</link>
       <pubDate>Wed, 03 Mar 2021 22:56:03 -0700</pubDate>
